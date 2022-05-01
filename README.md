@@ -1,5 +1,5 @@
 # Basic-brute-in-CSharp
-Simple Brute-force to see how Brute-force works
+Simple Brute-force to see how Brute-force works | Educational Purpose
 
 # Requirements
 .Net Framework 5
